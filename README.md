@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @onepacket-9
-- 👀 I’m interested in discord security testing bots
-- 🌱 I’m currently learning python, c++
-- 📫 How to reach me onepacket#3378
